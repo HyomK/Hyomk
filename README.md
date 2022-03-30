@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyomin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyomKID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyomK)
