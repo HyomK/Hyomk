@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hyomin&fontSize=70&type=waving&fontAlign=80) -->
 
-[![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&bg_color=0,f2709c,ff9472&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&bg_color=0,a4bfef,6a93cb&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Hyomin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyomK&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/HyomK)
  -->
 
