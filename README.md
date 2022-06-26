@@ -3,7 +3,7 @@
 <div align="center">
  
  
-[![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&show_icons=true&theme=react)
+[![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&show_icons=true&theme=dracula)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
