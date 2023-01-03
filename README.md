@@ -2,9 +2,8 @@
 <hr height = "1px"/>
 
 <div align="left">
- 
- 
-![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&show_icons=true&border_color=#222222&hide_border=false)
+  
+![Hyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyomK&show_icons=true&hide_border=false)
 
 
 <p align="left">🛠 Tech Stack 🛠</p>
