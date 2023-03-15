@@ -1,7 +1,6 @@
 <h2>안녕하세요 김효민 입니다  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> </h2>
 
 <div align="left">
-  <p>도전과 성취를 통해 성장하는 사람이 되고자 합니다.</p>
   <p>I'm interested in Android development </p>
     <p>I often do web development </p>
     <br/>
@@ -33,12 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)&nbsp;  
   
 </details>
- <hr/>
- <h3>⭐ Activity</h3> 
-  <p>UMC Soongsil - 1st,2nd Android,NodeJs (2021.09~2022.08)</p>
-    <p>멋쟁이사자처럼 Soongsil Front-End (2022.03~2022.12)</p>
-    <p>Depromeet 11st Android (2022.03~2022.07)</p>
-    <p>멋쟁이사자처럼 Soongsil management (2023.01~)</p>
+
   <br/>
   
   
